@@ -1,3 +1,5 @@
-# First Chapter
+# Link
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+- [The Non-Designer's Design Book](http://www.amazon.com/The-Non-Designers-Design-Book-Edition/dp/0321534042)
+
+- 

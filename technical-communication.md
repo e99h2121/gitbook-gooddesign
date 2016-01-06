@@ -3,6 +3,7 @@
 ## General understanding
 
 - [Technical communication](https://en.wikipedia.org/wiki/Technical_communication)
+
 - [Technical writing](https://en.wikipedia.org/wiki/Technical_writing)
 
 
@@ -14,11 +15,11 @@
 - [What is the best way to learn technical writing?](http://writers.stackexchange.com/questions/5341/what-is-the-best-way-to-learn-technical-writing/7962#7962)
 
 
-Technical Writing
-https://www.quora.com/Technical-Writing
+- [Technical Writing](https://www.quora.com/Technical-Writing)
 
-Technical writing from MIT
-http://web.mit.edu/me-ugoffice/communication/
+
+- [Technical writing from MIT](http://web.mit.edu/me-ugoffice/communication/)
+
 
 Writing and communication center
 http://cmsw.mit.edu/writing-and-communication-center/

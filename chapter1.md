@@ -2,13 +2,14 @@
 
 ## General understanding
 
-
+### Books
 
 - [The Non-Designer's Design Book](http://www.amazon.com/The-Non-Designers-Design-Book-Edition/dp/0321534042)
 
 CRAP Design is the key.
 
 
+### Questions
 
 - [Can a non-designer tell the difference between average/poor design and really good design?](https://www.quora.com/Can-a-non-designer-tell-the-difference-between-average-poor-design-and-really-good-design)
 

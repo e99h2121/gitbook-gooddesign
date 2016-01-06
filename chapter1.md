@@ -20,7 +20,7 @@ Simply, it can do. Because it is similar like non-chef can tell the difference b
 In google, there are the jobs which is called Interaction designer.
 
 
-### Questions
+### Dieter Rams
 
 - [Dieter Rams: ten principles for good design](https://www.vitsoe.com/rw/about/good-design)
 

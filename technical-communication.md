@@ -2,15 +2,17 @@
 
 ## General understanding
 
-About technical communication and writing
-https://en.wikipedia.org/wiki/Technical_writing
-https://en.wikipedia.org/wiki/Technical_communication
+- [Technical communication](https://en.wikipedia.org/wiki/Technical_communication)
+- [Technical writing](https://en.wikipedia.org/wiki/Technical_writing)
 
-Good Examples of and Practices in Code Documentation
-http://writers.stackexchange.com/questions/12417/good-examples-of-and-practices-in-code-documentation
 
-What is the best way to learn technical writing?
-http://writers.stackexchange.com/questions/5341/what-is-the-best-way-to-learn-technical-writing/7962#7962
+
+
+- [Good Examples of and Practices in Code Documentation](http://writers.stackexchange.com/questions/12417/good-examples-of-and-practices-in-code-documentation)
+
+
+- [What is the best way to learn technical writing?](http://writers.stackexchange.com/questions/5341/what-is-the-best-way-to-learn-technical-writing/7962#7962)
+
 
 Technical Writing
 https://www.quora.com/Technical-Writing

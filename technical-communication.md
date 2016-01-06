@@ -7,8 +7,6 @@
 - [Technical writing](https://en.wikipedia.org/wiki/Technical_writing)
 
 
-
-
 - [Good Examples of and Practices in Code Documentation](http://writers.stackexchange.com/questions/12417/good-examples-of-and-practices-in-code-documentation)
 
 

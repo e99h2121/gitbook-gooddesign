@@ -19,17 +19,17 @@
 - [Technical writing from MIT](http://web.mit.edu/me-ugoffice/communication/)
 
 
-Writing and communication center
-http://cmsw.mit.edu/writing-and-communication-center/
+- [Writing and communication center](http://cmsw.mit.edu/writing-and-communication-center/)
 
-Intro to tech communication
-http://ocw.mit.edu/courses/comparative-media-studies-writing/21w-732-2-intro-to-tech-communication-fall-2002/download-course-materials/
 
-Introduction to Technical Communication: Explorations in Scientific and Technical Writing
-http://ocw.mit.edu/courses/comparative-media-studies-writing/21w-732-5-introduction-to-technical-communication-explorations-in-scientific-and-technical-writing-fall-2006/
+- [Intro to tech communication](http://ocw.mit.edu/courses/comparative-media-studies-writing/21w-732-2-intro-to-tech-communication-fall-2002/download-course-materials/)
 
-Technical communication mike markel pdf
-http://www.amazon.com/Technical-Communication-Mike-Markel/dp/1457673371/ref=dp_ob_title_bk
 
-Writing tools
-http://www.ditawriter.com/which-tech-writing-tools-are-the-most-used/
+- [Introduction to Technical Communication: Explorations in Scientific and Technical Writing](http://ocw.mit.edu/courses/comparative-media-studies-writing/21w-732-5-introduction-to-technical-communication-explorations-in-scientific-and-technical-writing-fall-2006/)
+
+
+- [Technical communication mike markel](http://www.amazon.com/Technical-Communication-Mike-Markel/dp/1457673371/ref=dp_ob_title_bk)
+
+
+- [Writing tools](http://www.ditawriter.com/which-tech-writing-tools-are-the-most-used/)
+

@@ -4,6 +4,7 @@
 
 - [Technical communication](https://en.wikipedia.org/wiki/Technical_communication)
 
+
 - [Technical writing](https://en.wikipedia.org/wiki/Technical_writing)
 
 

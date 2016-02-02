@@ -1,4 +1,4 @@
-# Link
+# Technical Communication
 
 ## General understanding
 

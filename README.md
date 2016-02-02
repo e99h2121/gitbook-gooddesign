@@ -1,4 +1,4 @@
-"Good Design" - 
+"Good Design" - quick understanding for dummies
 =======
 
 This is the summary of my personal study among recent topics from each news articles. The contents are:

@@ -7,7 +7,7 @@ This is the summary of my question among recent article from each news. Now this
 - Security
 - AI
 
-And so on. The original question for me was "What is good design?" as a non-designer's viewpoint. After it includes Security, Writings, and AI... and so on.
+And so on. The original question for me was "What is good design?" as a non-designer's viewpoint. 
 
 Many design guides explain the theory, or pattern. But they don't explain the reason why it is needed in the design. 
 

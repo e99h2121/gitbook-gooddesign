@@ -13,4 +13,4 @@ The original question for me was "What is good design?" as a non-designer's view
 
 I'm not a designer so I wonder why the theory is needed and the pattern is effective in every particular cases. To focus on each reason of the background of the theory of design, and want to dive into the deeper understanding of the BETTER UI.
 
-Also by the same way, by such a stance, document will summarize a few kind of the aspects.
+All of the approach was done by the same way, From non security expart's viewpoint.

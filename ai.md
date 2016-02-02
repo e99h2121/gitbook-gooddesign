@@ -7,7 +7,7 @@
 
 - Data mining
 
-- Statisticsand Bayesian methods
+- Statistics and Bayesian methods
 
 - Control and information theory
 

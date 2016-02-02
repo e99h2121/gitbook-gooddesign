@@ -18,4 +18,4 @@ Now, all the approach was done by the same way. From non-security expert's viewp
 Some of the topics seems like just a mixture of the completely different kind of the essence. But some of the point can inspire each learner. I hope this can be the help for anyone.
 
 
-http://e99h2121.github.io/
+Author: http://e99h2121.github.io/

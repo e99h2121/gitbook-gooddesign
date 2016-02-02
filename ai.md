@@ -45,8 +45,8 @@ Machine Learning is the only kind of AI there is.
 
 ## Recognition
 
-- Natural language process
-- Speech Recognition
+- [Natural language processing](https://en.wikipedia.org/wiki/Natural_language_processing)
+- [Speech Recognition](https://en.wikipedia.org/wiki/Speech_recognition)
 - Pattern Recognition
 - Picture recognition
 - Sensor recognition

@@ -2,6 +2,7 @@
 
 ## What is AI?
 
+### Each terms
 
 - Artificial interlligence
 

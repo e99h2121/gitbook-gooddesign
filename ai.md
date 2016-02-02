@@ -1,4 +1,4 @@
-# Link
+# AI
 
 ## What is AI?
 

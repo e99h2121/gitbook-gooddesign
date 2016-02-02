@@ -13,7 +13,7 @@ The very original question for me was "What is good design?" as a non-designer's
 
 I wonder why the every single theory is needed and the pattern is effective in every particular cases. To focus on each reason of the background of the theory of design, and want to dive into the deeper understanding of the BETTER UI.
 
-All of the approach was done by the same way. From non-security expert's viewpoint, from non-AI expert's viewpoint. There is a quick summarizing of each topics.
+Now, all the approach was done by the same way. From non-security expert's viewpoint, from non-AI expert's viewpoint. There is a quick summarizing of each topics.
 
 Some of the topics seems like just a mixture of the completely different kind of the essence, but I think some of the point can be the insuperable point with any learner. So, I hope this can be the help for anyone.
 

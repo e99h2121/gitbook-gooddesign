@@ -15,7 +15,7 @@ I wonder why the every single theory is needed and the pattern is effective in e
 
 Now, all the approach was done by the same way. From non-security expert's viewpoint, from non-AI expert's viewpoint. There is a quick summarizing of each topics.
 
-Some of the topics seems like just a mixture of the completely different kind of the essence, but I think some of the point can be the insuperable point with any learner. So, I hope this can be the help for anyone.
+Some of the topics seems like just a mixture of the completely different kind of the essence. But I think some of the point can be the insuperable point with any learner. So, I hope this can be the help for anyone.
 
 
 http://e99h2121.github.io/

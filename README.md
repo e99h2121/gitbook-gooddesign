@@ -1,7 +1,7 @@
 "Good Design"
 =======
 
-This is the summary of my personal study among recent article from each news. Now this document is focusing that several kind of the themes of the recent news.
+This is the summary of my personal study among recent topics from each news articles. Now this document is focusing that several kind of the themes of the recent news.
 
 - Design
 - Security

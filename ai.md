@@ -4,15 +4,15 @@
 
 ### Each terms
 
-- Artificial interlligence
+- [Artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
 
-- Data mining
+- [Data mining](https://en.wikipedia.org/wiki/Data_mining)
 
-- Statistics and Bayesian methods
+- [Statistics and Bayesian methods](https://en.wikipedia.org/wiki/Bayesian_statistics)
 
-- Control and information theory
+- [Control and information theory](https://en.wikipedia.org/wiki/Control_theory)
 
-- Machine learning 
+- Machine learning
 
 
 

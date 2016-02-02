@@ -1,9 +1,7 @@
 "Good Design"
 =======
 
-This is the summary of my question among recent article from each news.
-
-Now this document is focusing that several kind of the themes of the recent news.
+This is the summary of my question among recent article from each news. Now this document is focusing that several kind of the themes of the recent news.
 
 The original question for me was "What is good design?" as a non-designer's viewpoint. After it includes Security, Writings, and AI... and so on.
 

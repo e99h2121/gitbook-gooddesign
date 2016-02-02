@@ -2,6 +2,7 @@
 =======
 
 In fact, this document is not only about the Design, but also focusing that several kind of the themes of the recent news.
+
 The original question for me was "What is good design?" as a non-designer's viewpoint. But in fact this includes Security, Writings, and AI... and so on.
 So, this is the summary of my question among recent article from each news.
 

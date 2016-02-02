@@ -9,7 +9,7 @@ This is the summary of my personal study among recent topics from each news arti
 
 And so on. 
 
-The original question for me was "What is good design?" as a non-designer's viewpoint. Many design guides explain the theory, or pattern. But they don't explain the reason why it is needed in the design. 
+The very original question for me was "What is good design?" as a non-designer's viewpoint. Many design guides explain the theory, or pattern. But they don't explain the **reason** why it is needed in the design. 
 
 I'm not a designer so I wonder why the theory is needed and the pattern is effective in every particular cases. To focus on each reason of the background of the theory of design, and want to dive into the deeper understanding of the BETTER UI.
 

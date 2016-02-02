@@ -12,7 +12,7 @@
 
 - [Control and information theory](https://en.wikipedia.org/wiki/Control_theory)
 
-- Machine learning
+- [Machine learning](https://en.wikipedia.org/wiki/Machine_learning)
 
 
 

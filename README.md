@@ -15,4 +15,4 @@ I'm not a designer so I wonder why the theory is needed and the pattern is effec
 
 All of the approach was done by the same way, From non-security expert's viewpoint, from non-AI expert's viewpoint. There is a quick summarizing of each topics.
 
-Some of the topics seems like just a mixture of the completely different kind of the essence, but I think some of the point can be the insparable point with any 
+Some of the topics seems like just a mixture of the completely different kind of the essence, but I think some of the point can be the insuperable point with any 

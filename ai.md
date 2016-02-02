@@ -19,12 +19,12 @@
 
 - Deep learning = Machine learning of Deep neural network 
 
-[ディープラーニングとは、ニューラルネットの「ルネッサンス」](http://matome.naver.jp/odai/2140635573608360401)
+[ディープラーニングとは、ニューラルネットの「ルネッサンス」(Japanese)](http://matome.naver.jp/odai/2140635573608360401)
 
 
 [ＩＴトレンド・セレクト
 2013年04月18日（木）　小林 雅一
-グーグルや百度が注力する「ディープ･ラーニング」とは何か?](http://gendai.ismedia.jp/articles/-/35512)
+グーグルや百度が注力する「ディープ･ラーニング」とは何か?(Japanese)](http://gendai.ismedia.jp/articles/-/35512)
 
 
 

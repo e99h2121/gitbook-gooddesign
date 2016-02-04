@@ -1,5 +1,10 @@
 # Technical Communication
 
+- [More organizations are developing integrated technical communications to effectively manage the information that must be communicated. ](http://techwhirl.com/what-is-technical-writing/)
+
+- [There is several categories in the technical communication so I'd like to categorize according to our current products' requirement.](https://en.wikipedia.org/wiki/Technical_communication/)
+
+
 ## General understanding
 
 - [Technical communication](https://en.wikipedia.org/wiki/Technical_communication)
@@ -33,4 +38,38 @@
 
 
 - [Writing tools](http://www.ditawriter.com/which-tech-writing-tools-are-the-most-used/)
+
+
+## Kind of writer
+
+- Information architect
+- API writer
+- Technical Writer/Editor
+- Technical illustrator
+- Technical translator
+
+- E-learning author
+- Technical Trainer
+
+- Usability expert
+- User experience designer
+- User interface designer
+
+
+## Audience analysis
+
+The final goal of a particular document is to help readers find what they need, understand what they find, and use what they understand appropriately. Technical writers must understand how their audiences use and read documentation. An audience analysis at the outset of a document project helps define what an audience for a particular document requires.
+
+When analyzing an audience the technical writer typically asks:
+
+- Who is the intended audience?
+- What are their demographic characteristics?
+- What is the audienceÅfs role?
+- How does the reader feel about the subject?
+- How does the reader feel about the sender?
+- What form does the reader expect?
+- What is the audienceÅfs task?
+- What is the audienceÅfs knowledge level?
+- What factors influence the situation?
+
 

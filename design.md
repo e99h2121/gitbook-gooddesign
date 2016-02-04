@@ -37,7 +37,20 @@ In google, there are the jobs which is called Interaction designer.
 
 - [So you wanna be a user experience designer](https://whitneyhess.com/blog/2009/06/30/so-you-wanna-be-a-user-experience-designer-step-1-resources/)
 
+- [Poor UI Design Can Kill–Air Inter Flight 148, a harsh lesson learned](http://blog.martindoms.com/2011/01/24/poor-ui-design-can-kill/)
+
+- [If technological advancement was not a limiting factor, what would be your ideal conception of UI/UX design?](http://www.quora.com/If-technological-advancement-was-not-a-limiting-factor-what-would-be-your-ideal-conception-of-UI-UX-design?share=1)
+
 
 ### Material design
 
 - [Material design](http://www.google.co.jp/design/spec/material-design/introduction.html)
+
+
+### Tools
+
+- http://pixabay.com/
+
+- https://pixlr.com/web/
+
+- http://www.mobile-patterns.com/
